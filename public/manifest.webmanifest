@@ -1,0 +1,17 @@
+{
+  "name": "सहेली - Blouse Work Planner",
+  "short_name": "Blouse Plan",
+  "description": "Smart, easy blouse work planning and prioritization for tailoring",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ea580c",
+  "icons": [
+    {
+      "src": "/blouse-icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
