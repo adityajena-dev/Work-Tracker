@@ -1,17 +1,33 @@
 {
-  "name": "सहेली - Blouse Work Planner",
-  "short_name": "Blouse Plan",
-  "description": "Smart, easy blouse work planning and prioritization for tailoring",
-  "start_url": "/",
+  "name": "Work Planner",
+  "short_name": "Work Planner",
+  "description": "Smart, easy work planning and capacity tracking",
+  "start_url": "/Work-Tracker/",
+  "scope": "/Work-Tracker/",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#ea580c",
+  "background_color": "#faf9f6",
+  "theme_color": "#0f766e",
   "icons": [
     {
-      "src": "/blouse-icon.svg",
-      "sizes": "192x192 512x512",
-      "type": "image/svg+xml",
-      "purpose": "any maskable"
+      "src": "/Work-Tracker/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/Work-Tracker/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/Work-Tracker/maskable-icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/Work-Tracker/blouse-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
     }
   ]
 }
